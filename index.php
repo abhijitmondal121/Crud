@@ -12,18 +12,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <?php  
 $insert = false;
 $update = false;
